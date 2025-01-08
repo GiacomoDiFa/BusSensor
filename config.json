@@ -1,18 +1,18 @@
 {
 	"influx": {
-		"url": "http://informatica-iot.freeddns.org:8086",
-		"org": "uniurb",
-		"token": "RtJQ92waC__dxd9tQGXPyNkNuj2r0PpRmxis7J4riJ76K0WAuv0Ez1xgTKZnvqYczjaq66tMQ1eGZwNhkzeE1Q==",
-		"bucket": "test",
+		"url": "",
+		"org": "",
+		"token": "",
+		"bucket": "",
 		
-		"host": "Raspberry5-bus",
-		"location": "Urbino",
-		"room": "Peano",
-		"urlAdriabus": "http://adriabusfe.superdriver.it/PlusTelecamereAmiUrb_WebApi/registra-passeggeri/insert"
+		"host": "",
+		"location": "",
+		"room": "",
+		"urlAdriabus": ""
 	},
 	"application": {
 		"log-file-path": "/home/pi/Desktop/BusSensor/errors.log",
-		"source": "rtsp://admin:CTEuniurb@192.168.1.101:554/cam/realmonitor?channel=1&subtype=0",
+		"source": "",
 		"consumer-max-downtime": 900,
 		
 		"model-path": "/home/pi/Desktop/BusSensor/yolov9c.pt",
